@@ -11,35 +11,44 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Master’s Degree in Computer Engineering**, Alma Mater Studiorum --- Università di Bologna, 2025 -- Present
+  * Focus on Distributed Systems, Parallel Computing, and Cloud-native architectures.
+  * Actual GPA: 29.5/30
+* **Bachelor’s Degree in Computer Engineering**, Alma Mater Studiorum --- Università di Bologna, 2022 -- 2025
+  * Grade: 107/110
+  * **Thesis:** "Performance Analysis and Monitoring in Cloud-Edge Environments for IoT"
+  * Developed a cloud-edge distributed system using Kubernetes Operators, Crossplane, and Istio Service Mesh.
+* **High School Diploma**, Liceo Scientifico Galileo Galilei, Potenza, 2017 -- 2022
+  * Focus on Adobe Creative Cloud, Multimedia Content Production, and Graphic Design.
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Junior DevOps Engineer** | HoDiritto (Startup) | Feb 2026 -- Present
+  * Led end-to-end system design and infrastructure architecture for an early-stage MVP.
+  * Managed service containerization and implemented API security best practices.
+  * Provisioned cloud infrastructure using Terraform and automated CI/CD pipelines.
+* **Academic Tutor (System Administration)** | Università di Bologna | Feb 2026 -- Present
+  * Supported undergraduate course "System Administration and Security".
+  * Guidance on Linux system administration, shell scripting, and security practices.
+* **Software Engineer** | Project Quality Systems S.R.L. | 2023 -- 2026
+  * Developed and maintained a C# desktop application for audit management.
+  * Designed and implemented full-stack features using React.js, Node.js, and MySQL.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Projects
+======
+* **Cloud-Edge IoT Orchestration Platform**
+  * Distributed architecture for managing low-power IoT devices across edge and cloud using Istio and Kubernetes.
+  * Implemented Kubernetes Custom Resources and controllers.
+* **Open-source Contributions (GitHub)**
+  * Focus on Kubernetes tooling, automation, and cloud-native workflows.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Languages:** Go, C, Java, C#, JavaScript (React.js, Node.js), Python, SQL, NoSQL, CUDA.
+* **Cloud & DevOps:** Kubernetes, Docker, Terraform, Ansible, Vagrant, CI/CD, Istio, Crossplane.
+* **Observability:** Prometheus, Grafana, OpenTelemetry.
+* **Systems & IoT:** Linux system administration, shell scripting, MQTT, Cybersecurity.
+* **Tools:** Git, Adobe Creative Suite (Photoshop, Illustrator, Premiere).
 
 Publications
 ======
@@ -58,7 +67,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
