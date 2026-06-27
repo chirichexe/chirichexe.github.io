@@ -9,61 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* **Master’s Degree in Computer Engineering**, Alma Mater Studiorum --- Università di Bologna, 2025 -- Present
-  * Focus on Distributed Systems, Parallel Computing, and Cloud-native architectures.
-  * Actual GPA: 29.5/30
-* **Bachelor’s Degree in Computer Engineering**, Alma Mater Studiorum --- Università di Bologna, 2022 -- 2025
+## Contact
+
+* Location: Bologna, Italy
+* Email: [davidechirichella10@gmail.com](mailto:davidechirichella10@gmail.com)
+* GitHub: [github.com/chirichexe](https://github.com/chirichexe)
+* LinkedIn: [linkedin.com/in/davide-chirichella](https://www.linkedin.com/in/davide-chirichella)
+
+## Education
+
+* **Master's Degree in Computer Engineering**, Alma Mater Studiorum - Universita di Bologna, Bologna, Italy, 2025 -- Present
+  * GPA: 29.5/30
+* **Bachelor's Degree in Computer Engineering**, Alma Mater Studiorum - Universita di Bologna, Bologna, Italy, 2022 -- 2025
   * Grade: 107/110
-  * **Thesis:** "Performance Analysis and Monitoring in Cloud-Edge Environments for IoT"
-  * Developed a cloud-edge distributed system using Kubernetes Operators, Crossplane, and Istio Service Mesh.
-* **High School Diploma**, Liceo Scientifico Galileo Galilei, Potenza, 2017 -- 2022
-  * Focus on Adobe Creative Cloud, Multimedia Content Production, and Graphic Design.
+  * Thesis: *Performance Analysis and Monitoring in Cloud-Edge Environments for IoT*
+* **High School Diploma**, Liceo Scientifico Galileo Galilei, Potenza, Italy, 2017 -- 2022
 
-Work experience
-======
-* **Junior DevOps Engineer** | HoDiritto (Startup) | Feb 2026 -- Present
-  * Led end-to-end system design and infrastructure architecture for an early-stage MVP.
-  * Managed service containerization and implemented API security best practices.
-  * Provisioned cloud infrastructure using Terraform and automated CI/CD pipelines.
-* **Academic Tutor (System Administration)** | Università di Bologna | Feb 2026 -- Present
-  * Supported undergraduate course "System Administration and Security".
-  * Guidance on Linux system administration, shell scripting, and security practices.
-* **Software Engineer** | Project Quality Systems S.R.L. | 2023 -- 2026
-  * Developed and maintained a C# desktop application for audit management.
-  * Designed and implemented full-stack features using React.js, Node.js, and MySQL.
+## Work Experience
 
-Projects
-======
-* **Cloud-Edge IoT Orchestration Platform**
-  * Distributed architecture for managing low-power IoT devices across edge and cloud using Istio and Kubernetes.
-  * Implemented Kubernetes Custom Resources and controllers.
-* **Open-source Contributions (GitHub)**
-  * Focus on Kubernetes tooling, automation, and cloud-native workflows.
+* **Junior DevOps Engineer**, HoDiritto (Startup), Hybrid, Feb 2026 -- Present
+  * Built and managed a full Docker Swarm microservices architecture, CI/CD, GitOps, monitoring, and security for an MVP in an early-stage startup in a pre-acceleration program.
+  * Tech stack: *Docker, Terraform, MongoDB*
+* **Academic Tutor**, Alma Mater Studiorum - Universita di Bologna, Bologna, Italy, Feb 2026 -- Present
+  * Course: System Administration.
+  * Supported Bachelor students on Linux systems management, shell scripting, and Infrastructure as Code (IaC).
+  * Tech stack: *Linux, Bash, VirtualBox, Ansible, Vagrant*
+* **Student Intern**, Mobile Middleware Research Group, Hybrid, Feb 2025 -- Jul 2025
+  * Designed an edge-cloud infrastructure for IoT orchestration. Developed a Kubernetes Operator for automated device provisioning, configured Istio to integrate edge Docker microservices into the primary cluster, and deployed a full monitoring stack.
+  * Tech stack: *Docker, Kubernetes, Istio, Crossplane, Prometheus, Grafana, OpenTelemetry*
+* **Software Engineer**, Project Quality Systems S.R.L., Remote, 2023 -- 2026
+  * Developed and scaled a corporate management platform using React.js and Node.js with a MySQL backend.
+  * Maintained and optimized legacy internal applications written in C#.
+  * Tech stack: *React.js, Node.js, MySQL, C#*
 
-Skills
-======
-* **Languages:** Go, C, Java, C#, JavaScript (React.js, Node.js), Python, SQL, NoSQL, CUDA.
-* **Cloud & DevOps:** Kubernetes, Docker, Terraform, Ansible, Vagrant, CI/CD, Istio, Crossplane.
-* **Observability:** Prometheus, Grafana, OpenTelemetry.
-* **Systems & IoT:** Linux system administration, shell scripting, MQTT, Cybersecurity.
-* **Tools:** Git, Adobe Creative Suite (Photoshop, Illustrator, Premiere).
+## Languages
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Italian**: Native speaker
+* **English**: B2 - Upper Intermediate, Cambridge English First (FCE), June 2022
