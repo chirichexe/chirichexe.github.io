@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -15,6 +15,7 @@ redirect_from:
 * Email: [davidechirichella10@gmail.com](mailto:davidechirichella10@gmail.com)
 * GitHub: [github.com/chirichexe](https://github.com/chirichexe)
 * LinkedIn: [linkedin.com/in/davide-chirichella](https://www.linkedin.com/in/davide-chirichella)
+* Download CV: [English PDF](https://github.com/chirichexe/cv/releases/download/latest/DavideChirichella_CV_ENG.pdf) / [Italian PDF](https://github.com/chirichexe/cv/releases/download/latest/DavideChirichella_CV_IT.pdf)
 
 ## Education
 
